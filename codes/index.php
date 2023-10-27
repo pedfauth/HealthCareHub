@@ -41,11 +41,10 @@
             <a href=""><img id="logo" src="https://s3-alpha-sig.figma.com/img/e84d/69e9/4c07a4e72b28e2b94eb66123bdfee2aa?Expires=1699228800&Signature=a0fqL2l29ZjTc2QNRz8KhLbTgCIC0z8VAMOE~lffKDJR1Onn5yPFPEaUgofy~4FQTHqPqSHAD0H4wmbH1lih4JikehKXDMwoW~KavLl~hNJ3~7PycTCPaj5npyRzYnXOeayWzlMTl0d~HXhZRTBEw3gYbv3lmiUxJLUdyi1-2f9yrxs-85idbzZmv37T-70OSW4jOOi72SD3GdQRqNojMAKpJj1aagdz2hGzATCDITbwShR1REEZEcafHgzdlTW5fxxXowqvoga3K9yLUy2DWlKPaaX3Q1h8VlB~vq2jdOBJstc3-J14bJEgpdrDbs6LSG8rvbIksnzHsKC3J4TJhA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"></a>
         </div>
         <div class="navleft">
-            
             <a href="./user_interaction/user_cadastro.php" id="nb"><h3>LOGIN</h3></a>
             <a href="" id="nb"><h3>SOBRE NÓS</h3></a>
             <a href="" id="nb"><h3>HÁBITOS</h3></a>
-            <a href="" id="nb"><h1>OPACARALHO</h1></a>
+            <a href="" id="nb"><h3>DESAFIOS</h3></a>
             <a href="" id="nb"><h3>COMUNIDADE</h3></a>
             <a href="consult.php" id="nb"><h3>PERFIL</h3></a>
         </div>
